@@ -1,0 +1,41 @@
+body {
+    background-color: white;
+    color: 'black';
+  }
+
+  .jumbotron {
+    background-image: url("../images/biodiversity.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color:rgb(32, 255, 69);
+  }
+
+    h2 {
+        text-align: center;
+        font-size: 40px;
+        font-weight: bold;
+    }
+
+    h2 {
+        text-align: center;
+        font-size: 40px;
+        font-weight: bold;
+    }
+ 
+    #pie {
+        width: 100%;
+        height: 100%; 
+    }
+
+
+    #gauge {
+        width: 100%;
+        height: 100%; 
+    }
+
+    #bubble {
+        margin-left: auto;
+        margin-right: auto;
+        width: 60%;
+        height: 100%;
+    }
